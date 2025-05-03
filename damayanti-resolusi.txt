@@ -1,2 +1,3 @@
 saya sedang mengikuti tutorial WPU
-mengedit file ini 
+saya telah menghapus baris ini sebelumnya
+dan saya telah menambahkan tulisan baru ini
