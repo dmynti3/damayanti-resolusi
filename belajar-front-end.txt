@@ -1,0 +1,7 @@
+saya akan mempelajari semua materi front end di kursus codepolitan.com
+-css
+membuat project sederhana
+-bootstrap
+membuat project sederhana
+tailwindcss
+membuat project sederhana
